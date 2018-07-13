@@ -1,6 +1,6 @@
 nav{
     padding: 20px;
-    font-size: 9px;
+    font-size: 25px;
     font-family: 'Yatra One', cursive;
     text-align: right; 
     color:rgb(0, 89, 179);
@@ -24,9 +24,9 @@ a:hover{
     font-family; 'Nanum+gothic',sans'serif;
     font-size: 18em;
     font-color:#AA4B41;
-    text-alignment: left;
+    float: left;
 }
 #r2d2{
-    height: 80px;
-    width:40px;
+    height:280px;
+    width:240px;
 }
