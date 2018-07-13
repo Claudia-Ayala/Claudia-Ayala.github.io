@@ -6,10 +6,8 @@ body{
  a:hover{
   background-color: #97B8C2;
 }
-a:visited{
-  color: #89DA59;
-}
-a:acive{
+
+a:active{
   color: #FB6542
 }
 img{
