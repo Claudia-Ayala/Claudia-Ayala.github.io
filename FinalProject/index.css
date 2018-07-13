@@ -1,17 +1,17 @@
 body{ 
   background-color:#D4DDE1;
   font-family: 'Nanum+gothic',sans-serif;
-  text-align:center; 
+  text-align: center; 
 }
  a:hover{
-  background-color:#97B8C2;
+  background-color: #97B8C2;
 }
 img{
-  width:55%;
-  height:auto;
+  width: 55%;
+  height: auto;
 }
 h2{
-  color:#AA4B41;
-  font-size:80;
+  color: #AA4B41;
+  font-size: 80;
 }
   
