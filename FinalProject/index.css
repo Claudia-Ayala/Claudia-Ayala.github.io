@@ -9,7 +9,9 @@ body{
 a:visited{
   color: #89DA59;
 }
-
+a:acive{
+  color: #FB6542
+}
 img{
   width: 55%;
   height: auto;
