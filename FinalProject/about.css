@@ -9,7 +9,6 @@ body{ font-family: 'Markazi Text', serif;
     padding: 0px;
     overflow: hidden;
     }
-    
 nav{
     text-align: right;
     font-size: 20px;
@@ -47,5 +46,3 @@ a:active{
   color: #AA4B41;
   font-size: 80;
 }
-
-  
