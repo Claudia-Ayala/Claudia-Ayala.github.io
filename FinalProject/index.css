@@ -1,4 +1,7 @@
-body{ 
+
+@media only screen and ???{ 
+  
+  body{ 
   background-color:#D4DDE1;
   font-family: 'Markazi Text', serif;
   text-align: center; 
