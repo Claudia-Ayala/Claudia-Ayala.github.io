@@ -9,12 +9,26 @@ Img{
     width: 50%;
 }
 body{ font-family: 'Markazi Text', serif;
-a:hover {
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:  #335252;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
     background-color: #335252;
-    padding:14px 16px;
-    }
-a:active{
-    color: #335252;
-    }
+    color: stormy sea;
+}
 
   
