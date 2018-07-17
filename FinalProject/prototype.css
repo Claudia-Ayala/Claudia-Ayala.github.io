@@ -11,6 +11,12 @@ body{
   text-align: center; 
   font-size: 200;
 }
+#header{
+    background: #AA4B41;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    }
 a:hover{
     background-color: #335252;
     padding: 14px 16px;
