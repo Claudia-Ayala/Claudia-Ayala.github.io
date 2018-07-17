@@ -1,5 +1,13 @@
 
-  body{ 
+ @media only screen and (max-width: 800px) {
+   
+    body {
+    background-color: #D4DDE1;
+}
+   
+{
+ @media only screen and (min-width: 801px) {
+body{ 
   background-color:#D4DDE1;
   font-family: 'Markazi Text', serif;
   text-align: center; 
