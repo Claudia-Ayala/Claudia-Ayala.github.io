@@ -11,4 +11,10 @@ Img{
 body{ font-family: 'Markazi Text', serif;
 a:hover {
     background-color: #335252;
-}
+    padding:14px 16px;
+    }
+a:active{
+    color: #335252;
+    }
+
+  
