@@ -9,26 +9,23 @@ Img{
     width: 50%;
 }
 body{ font-family: 'Markazi Text', serif;
-    
-    {
-a:hover{ 
+}
+a:hover { 
     background-color: #335252;
-    padding: 14px 16px;
     }
 a:active{
   color: #FB6542
 }
 img{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  float: right;
   width: 40%;
 }
-h2{
+#h2{
   color: #AA4B41;
   font-size: 80;
 }
-h3{
+#h3{
   color: #AA4B41;
   font-size: 80;
 }
