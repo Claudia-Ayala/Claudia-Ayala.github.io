@@ -1,4 +1,25 @@
+/*Mobile*/
+@media only screen and (max-width: 600px) {
+    body {
+    background-color: #D4DDE1;
+    
+}
+    
+    
+}
 
+/*tablet*/
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+    body {
+    background-color: red;
+    
+}
+    
+    
+}
+
+/*Desktop*/
+@media only screen and (min-width: 851px) {
 body{ 
   background-color:#D4DDE1;
   font-family: 'Galada',cursive;
@@ -36,16 +57,18 @@ a:hover{
 #p1{
     font-family; 'Nanum+gothic',sans'serif;
     font-size: 30em;
-    font-color:#AA4B41;
-    text-alignment: left;
+    color:#AA4B41;
+    text-align: left;
 }
 #p2{
     font-family; 'Nanum+gothic',sans'serif;
     font-size: 18em;
-    font-color:#AA4B41;
+    color:#AA4B41;
     float: left;
 }
 #r2d2{
     height:280px;
     width:240px;
+}
+    
 }
