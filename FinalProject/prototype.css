@@ -17,6 +17,10 @@ nav{
     padding: 14px 16px;
     float: right;
 }
+ #logo {
+    display: inline-block;
+    vertical-align: middle;
+   }
     a{
     margin: 0px;
     padding: 14px 16px;
