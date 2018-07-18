@@ -68,7 +68,7 @@ a:active{
 img{
   display: inline-block;
   width: 30%;  
-   height: auto;
+   height: 80px;
   border-radius: 50%;
 }
 
