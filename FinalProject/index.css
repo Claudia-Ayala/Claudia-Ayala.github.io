@@ -1,3 +1,34 @@
+/*Mobile*/
+@media only screen and (max-width: 600px) {
+    body {
+    background-color: #D4DDE1;
+    
+}
+    
+    
+}
+
+/*tablet*/
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+    body {
+    background-color: red;
+    
+}
+    
+    
+}
+
+/*Desktop*/
+@media only screen and (min-width: 851px) {
+body { 
+    background-image: url(1_-I2xju4t8CCP-wb3Rlrqfg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 674px;
+    }
+
+
+
+
 * {
    box-sizing: border-box;
 }
@@ -57,21 +88,4 @@ h3{
   font-size: 80;
 }
 
-.containOof::after {
-    content: "";
-    display: table;
-    clear: both;
-}
 
-.oofieDoofie {
-   width: 33%;
-   float: left;
-   display: inline-block;
-   padding: 0px 2em;
-}
-
-.oofieDoofie img, .oofieDoofie h2 {
-   width: 100%;
-   float: left;
-   display: inline-block;
-}
