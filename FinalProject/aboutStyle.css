@@ -4,6 +4,10 @@
     background-color: #D4DDE1;
     
 }
+    #STD{
+  float: right;
+  width: 40%;
+}
     nav{
     text-align: right;
     font-size: 20px;
