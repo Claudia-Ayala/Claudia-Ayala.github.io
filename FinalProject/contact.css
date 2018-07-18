@@ -87,7 +87,7 @@ a:hover{
    float: left;
    display: inline-block;
    padding: 0px 2em;
-    width: 30%;  
+    width: 50%;  
    height: auto;
    border-radius: 50%;
 }
@@ -96,6 +96,6 @@ a:hover{
    float: right;
    display: inline-block;
    border-radius: 50%;
-   width: 30%;  
+   width: 50%;  
    height: auto;
 }
