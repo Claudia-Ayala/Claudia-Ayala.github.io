@@ -18,6 +18,17 @@
     float: right;
     }
     
+    #header{
+    background: #AA4B41;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    }
+    
+    a:hover{ 
+    background-color: #335252;
+    padding: 14px 16px;
+    }
 }
 
 /*tablet*/
@@ -75,7 +86,7 @@ a:active{
 img{
   display: inline-block;
   width: 30%;  
-   height: 60%;
+   height: 50%;
   border-radius: 50%;
 }
 
