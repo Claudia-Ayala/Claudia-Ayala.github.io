@@ -58,6 +58,7 @@ h3{
 .oofieDoofie {
    width: 33%;
    float: left;
+   display: inline-block;
 }
 
 .oofieDoofie img, .oofieDoofie h2 {
