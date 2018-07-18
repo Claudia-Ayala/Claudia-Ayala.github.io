@@ -64,4 +64,5 @@ h3{
 .oofieDoofie img, .oofieDoofie h2 {
    width: 100%;
    float: left;
+   display: inline-block;
 }
