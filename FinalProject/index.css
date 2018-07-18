@@ -1,4 +1,10 @@
-   
+  /*Mobile*/
+@media only screen and (max-width: 600px) {
+    body {
+   }
+   }
+ /*Desktop*/
+@media only screen and (min-width: 851px) {
 body{ 
   background-color:#D4DDE1;
   font-family: 'Markazi Text', serif;
@@ -14,7 +20,7 @@ nav{
     text-align: right;
     font-size: 20px;
     display: block;
-    padding: 14px 16px;
+    padding: 12px 14px;
     float: right;
     }
 a{
@@ -48,5 +54,5 @@ h3{
   color: #AA4B41;
   font-size: 80;
 }
-
+   }
 
