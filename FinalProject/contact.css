@@ -86,15 +86,15 @@ a:hover{
 .oofieDoofie {
    float: left;
    display: inline-block;
-   width: 30%;  
+   width: 25%;  
    height: auto;
-   border-radius: 30%;
+   border-radius: 25%;
 }
 
 .oofieDoofie img, .oofieDoofie h2 {
    float: right;
    display: inline-block;
-   border-radius: 30%;
-   width: 30%;  
+   border-radius: 25%;
+   width: 25%;  
    height: auto;
 }
