@@ -4,6 +4,12 @@
     background-color: #D4DDE1;
     
 }
+   img{
+  display: inline-block;
+  width: 30%;  
+  height: auto;
+  border-radius: 50%;
+}
     
     
 }
@@ -13,6 +19,12 @@
     body {
     background-color: red;
     
+}
+    img{
+  display: inline-block;
+  width: 30%;  
+   height: auto;
+  border-radius: 50%;
 }
     
     
