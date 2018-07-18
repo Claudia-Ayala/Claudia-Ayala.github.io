@@ -25,6 +25,11 @@ body {
     background-repeat: no-repeat;
     background-size: 1400px 674px;
     }
+    
+* {
+   box-sizing: border-box;
+}
+    
 h1 {
     color: #2D3033;
     text-align: center;
