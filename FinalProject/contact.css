@@ -92,6 +92,6 @@ a:hover{
 
 .oofieDoofie img, .oofieDoofie h2 {
    width: 100%;
-   float: left;
+   float: right;
    display: inline-block;
 }
