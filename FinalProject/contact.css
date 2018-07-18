@@ -72,3 +72,21 @@ a:hover{
 }
 
 }
+.containOof::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.oofieDoofie {
+   width: 33%;
+   float: left;
+   display: inline-block;
+   padding: 0px 2em;
+}
+
+.oofieDoofie img, .oofieDoofie h2 {
+   width: 100%;
+   float: left;
+   display: inline-block;
+}
