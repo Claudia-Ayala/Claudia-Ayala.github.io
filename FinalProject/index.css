@@ -55,6 +55,12 @@ h3{
   font-size: 80;
 }
 
+.containOof::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .oofieDoofie {
    width: 33%;
    float: left;
