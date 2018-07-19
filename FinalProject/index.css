@@ -71,11 +71,6 @@ nav{
     float: right;
     }
     
-    nav.active{
-    background-color: #335252;
-    padding: 14px 16px;
-    }
-    
 a{
     margin: 0px;
     padding: 14px 16px;
@@ -89,6 +84,10 @@ a:hover{
     padding: 14px 16px;
     }
     
+nav > .active{
+    background-color: #335252;
+    padding: 14px 16px;
+}
     
 img{
    display: inline-block;
