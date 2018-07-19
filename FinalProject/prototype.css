@@ -96,8 +96,8 @@ h4{
     float: left;
 }
 #r2d2{
-    height: 360px;
-    width: 320px;
+    height: 340px;
+    width: 300px;
     margin: 10px;
     float:right;
     margin-right: 70px;
@@ -114,8 +114,15 @@ h4{
     padding: 15px; 
     box-sizing: border-box;
     width: 60%;
-    
 }
+#prototype{
+    height: 360px;
+    width: 320px;
+    margin: 10px;
+    float:right;
+    margin-right: -310px;
+    margin-top: 170px;
+    }
 
 
     
