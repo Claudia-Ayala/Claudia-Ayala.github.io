@@ -1,97 +1,112 @@
 /*Mobile*/
 @media only screen and (max-width: 600px) {
     body {
-    background-color: #D4DDE1;
-    
-}
-    #STD{
-  float: right;
-  width: 40%;
-}
-    nav{
-    text-align: right;
-    font-size: 20px;
-    display: block;
-    padding: 14px 16px;
-    float: right;
-}
-
-#header{
-    background: #AA4B41;
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
+        background-color: #D4DDE1;
     }
-        
-body{
-    background-color: #D4DDE1;
-    font-family: 'Markazi Text', serif;
-    text-align: center;
-}
-    
+    #STD{
+      float: left;
+      width: 40%;
+    }
+    nav{
+        text-align: right;
+        font-size: 20px;
+        display: block;
+        padding: 14px 16px;
+        float: right;
+    }
+    #header{
+        background: #AA4B41;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    body{
+        background-color: #D4DDE1;
+        font-family: 'Markazi Text', serif;
+        text-align: center;
+    }
+
 }
 /*tablet*/
-@media only screen and (min-width: 601px) and (max-width: 900px) {
-    body {
-    background-color: red;
-    
-}
-    
-    
+    @media only screen and (min-width: 601px) and (max-width: 900px) {
+        body {
+            background-color: red;
+
+    }
 }
 /*Desktop*/
 @media only screen and (min-width: 901px) {
-    
-body{
-    background-color: #D4DDE1;
-    font-family: 'Markazi Text', serif;
-    text-align: center;
-}
-h1{
-    color: #AA4B41;
+    body, html{
+        background-color: #D4DDE1;
+        font-family: 'Markazi Text', serif;
+        text-align: center;
+        width: 100%;
+        height: 100%;
     }
-#header{
-    background: #AA4B41;
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
+    h1{
+        color: #AA4B41;
     }
-    
-nav{
-    text-align: right;
-    font-size: 20px;
-    display: block;
-    padding: 14px 16px;
-    float: right;
-}
+    #header{
+        background: #AA4B41;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+    }
+    nav{
+        text-align: right;
+        font-size: 20px;
+        display: block;
+        padding: 14px 16px;
+        float: right;
+    }
     a{
-    margin: 0px;
-    padding: 14px 16px;
-    color: white;
-    text-decoration: none;
-    font-family: 'Slabo 27px', serif;
+        margin: 0px;
+        padding: 14px 16px;
+        color: white;
+        text-decoration: none;
+        font-family: 'Slabo 27px', serif;
     }
+    a:hover{ 
+        background-color: #335252;
+        padding: 14px 16px;
+    }
+    a:active{
+      color: #FB6542
+    }
+    #STD{
+      float: right;
+      width: 40%;
+    }
+    #h2{
+      color: #AA4B41;
+      font-size: 80;
+    }
+    #h3{
+      color: #AA4B41;
+      font-size: 80;
+    }
+    p{
+        font-size: 25px;
+    }
+    #column1{
+        width: 30%;
+        float: left;
+    }
+    #STD{
+      float: left;
+      width: 40%;
+        display:block;
+    }
+    #column2{
+        width: 30%;
+        float:right;
+    }
+    #middle{
+        width: 100%;
+        height: 50%;
+    }
+}
 
-a:hover{ 
-    background-color: #335252;
-    padding: 14px 16px;
-    }
-a:active{
-  color: #FB6542
-}
-#STD{
-  float: right;
-  width: 40%;
-}
-#h2{
-  color: #AA4B41;
-  font-size: 80;
-}
-#h3{
-  color: #AA4B41;
-  font-size: 80;
-}
-    
-}
 
   
