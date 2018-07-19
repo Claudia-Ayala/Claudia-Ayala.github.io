@@ -26,6 +26,10 @@
         font-family: 'Markazi Text', serif;
         text-align: center;
     }
+    #img1{
+        width:250px;
+        height:500px;
+    }
 
 }
 /*tablet*/
@@ -111,6 +115,10 @@
     #middle{
         width: 100%;
         height: 50%;
+    }
+    #img1{
+        width:20%;
+        height55%;
     }
 }
 
