@@ -47,6 +47,12 @@
     h1{
         color: #AA4B41;
     }
+    
+    nav > .active{
+    background-color: #335252;
+    padding: 14px 16px;
+}
+    
     #header{
         background: #AA4B41;
         margin: 0px;
