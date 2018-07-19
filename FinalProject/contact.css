@@ -94,7 +94,12 @@ nav{
     font-family: 'Slabo 27px', serif;
         
     }
-
+    
+nav > .active{
+    background-color: #335252;
+    padding: 14px 16px;
+}
+    
 a:hover{ 
     background-color: #335252;
     padding: 14px 16px;
