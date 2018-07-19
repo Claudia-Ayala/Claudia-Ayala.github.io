@@ -79,7 +79,7 @@ a:hover{
     background-color: #335252;
     padding: 14px 16px;
     }
-a:active{
+a.active{
   color: #FB6542;
   background-color: #335252;
 }
