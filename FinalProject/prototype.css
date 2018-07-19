@@ -2,7 +2,7 @@
 @media only screen and (max-width: 600px) {
     body {
     background-color: #D4DDE1;
-    
+    font-family: 'Slabo 27px', serif;
 }
     
     
@@ -12,6 +12,7 @@
 @media only screen and (min-width: 601px) and (max-width: 900px) {
     body {
     background-color: red;
+    font-family: 'Slabo 27px', serif;
     
 }
     
@@ -22,9 +23,9 @@
 @media only screen and (min-width: 851px) {
 body{ 
   background-color:#D4DDE1;
-  font-family: 'Galada',cursive;
   text-align: center; 
-    }
+  font-family: 'Slabo 27px', serif;
+}
 #header{
     background: #AA4B41;
     margin: 0px;
@@ -43,7 +44,7 @@ nav{
     vertical-align: middle;
    
    }
-    a{
+a{
     margin: 0px;
     padding: 14px 16px;
     color: white;
@@ -54,21 +55,68 @@ a:hover{
     background-color: #335252;
     padding: 14px 16px;
     }
-#p1{
-    font-family; 'Nanum+gothic',sans'serif;
-    font-size: 30em;
-    color:#AA4B41;
+h1{
+    margin: 20px;
+    color: #2D3033;
+    font-size: 30px;
+    text-align: center;
+    }
+h2{
+    margin: 10px;
     text-align: left;
-}
-#p2{
-    font-family; 'Nanum+gothic',sans'serif;
-    font-size: 18em;
-    color:#AA4B41;
+    color: #AA4B41;
+    font-size: 22px;
+    }
+
+h3{
+    margin: 10px;
+    margin-bottom: 0px;
+    padding: 10px;
+    text-align: left;
+    color: #2D3033;
+    font-size: 22px;
+    }
+h4{
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    text-align: left;
+    color: #2D3033;
+    font-size: 22px;
+    }
+#p1{
+    font-size: 17px;
+    color:#335252;
+    text-align: left; 
+    margin: 10px;
+    padding: 10px; 
+    box-sizing: border-box;
+    width: 60%;
     float: left;
 }
 #r2d2{
-    height:280px;
-    width:240px;
+    height: 380px;
+    width: 340px;
+    margin: 10px;
+    float:right;
+    margin-right: 160px;
+    margin-top: -150px;
 }
+#p2{
+    font-size: 17px;
+    float: left;
+    padding: 10px;
+    color:#335252;
+    text-align: left; 
+    margin: auto;
+    margin-top: 40px;
+    padding: 15px; 
+    box-sizing: border-box;
+    width: 60%;
+    
+}
+
+
     
 }
