@@ -141,3 +141,7 @@ a:hover{
    width: 35%;  
    height: auto;
 }
+#google_translate_element{
+    margin: 14px;
+    margin-left: 10px;
+    }
