@@ -3,6 +3,29 @@
     body {
     background-color: #D4DDE1;
 }
+    .containOof::after {
+    content: "";
+    display: table;
+    clear: both;
+    margin-bottom: auto;
+  
+}
+
+.oofieDoofie {
+    float: left;
+    width: 35%;  
+    height: auto;
++   margin-top: auto;
+    border-radius: 25%;
+}
+
+.oofieDoofie img, .oofieDoofie h2 {
+    float: left;
++   margin-top: auto;
+    border-radius: 25%;
+    width: 35%;  
+    height: auto;
+    }
     
     #header{
     background: #AA4B41;
