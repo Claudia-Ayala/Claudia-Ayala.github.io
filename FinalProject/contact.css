@@ -128,7 +128,7 @@ a:hover{
 .oofieDoofie {
    float: left;
    display: inline-block;
-   width: 25%;  
+   width: 35%;  
    height: auto;
    border-radius: 25%;
 }
@@ -137,6 +137,6 @@ a:hover{
    float: right;
    display: inline-block;
    border-radius: 25%;
-   width: 25%;  
+   width: 35%;  
    height: auto;
 }
