@@ -21,7 +21,7 @@
 
 .oofieDoofie img, .oofieDoofie h2 {
     float: left;
-+   margin-top: auto;
+    margin-top: auto;
     border-radius: 25%;
     width: 35%;  
     height: auto;
@@ -156,13 +156,13 @@ a:hover{
     float: left;
     width: 35%;  
     height: auto;
-+   margin-top: auto;
+    margin-top: 100px;
     border-radius: 25%;
 }
 
 .oofieDoofie img, .oofieDoofie h2 {
     float: left;
-+   margin-top: auto;
+    margin-top: auto;
     border-radius: 25%;
     width: 35%;  
     height: auto;
