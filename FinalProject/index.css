@@ -114,7 +114,8 @@ h3{
 }#google_translate_element{
     margin: 14px;
     margin-top: -10px;
+    margin-left:-650px;
     text-align: left;
-    height: 12px;
+    height: 1px;
     }
 }
