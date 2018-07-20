@@ -35,7 +35,7 @@
 }
 
 .oofieDoofie img, .oofieDoofie h2 {
-   float: right;
+   float: left;
    display: inline-block;
    border-radius: 25%;
    width: 25%;  
@@ -136,7 +136,6 @@ a:hover{
 
 .oofieDoofie img, .oofieDoofie h2 {
    float: left;
-   display: inline-block;
    border-radius: 25%;
    width: 35%;  
    height: auto;
