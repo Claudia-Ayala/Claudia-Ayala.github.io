@@ -124,24 +124,24 @@ a:hover{
     content: "";
     display: table;
     clear: both;
+    margin-bottom: auto;
   
 }
 
-.oofieDoofie::after {
-   float: left;
-   border-radius: 25%;
-   width:25%;
-   margin-top:auto;
-   padding:5px;
+.oofieDoofie {
+    float: left;
+    width: 35%;  
+    height: auto;
++   margin-top: auto;
+    border-radius: 25%;
 }
 
 .oofieDoofie img, .oofieDoofie h2 {
-   float: left;
-   border-radius: 25%;
-   width:25%;
-   margin-top:auto;
-   padding:5px;
-
+    float: left;
++   margin-top: auto;
+    border-radius: 25%;
+    width: 35%;  
+    height: auto;
 }
 #google_translate_element{
     margin: 14px;
