@@ -130,17 +130,13 @@ a:hover{
 
 .oofieDoofie {
    float: left;
-   width: 10;  
-   padding:5px;
-   height: auto;
    border-radius: 25%;
 }
 
 .oofieDoofie img, .oofieDoofie h2 {
    float: left;
    border-radius: 25%;
-   width: 35%;  
-   height: auto;
+
 }
 #google_translate_element{
     margin: 14px;
