@@ -120,6 +120,11 @@
         width:1500px;
         height:800px;
     }
+    #google_translate_element{
+    margin: 14px;
+    margin-left: -650px;
+    }
+
 }
 
 
