@@ -125,23 +125,18 @@ a:hover{
     display: table;
     clear: both;
   
-    margin-bottom: auto;
 }
 
-.oofieDoofie:: after {
-   content:"";
-   clear: both;
-   display:table;
+.oofieDoofie::after {
    float: left;
    border-radius: 25%;
+   width:25%;
 }
 
 .oofieDoofie img, .oofieDoofie h2 {
    float: left;
    border-radius: 25%;
-   content:"";
-   clear: both;
-   display:table;
+   width:25%;
 
 }
 #google_translate_element{
