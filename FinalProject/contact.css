@@ -128,7 +128,10 @@ a:hover{
     margin-bottom: auto;
 }
 
-.oofieDoofie {
+.oofieDoofie:: after {
+   content:"";
+   clear: both;
+   display:table;
    float: left;
    border-radius: 25%;
 }
@@ -136,6 +139,9 @@ a:hover{
 .oofieDoofie img, .oofieDoofie h2 {
    float: left;
    border-radius: 25%;
+   content:"";
+   clear: both;
+   display:table;
 
 }
 #google_translate_element{
