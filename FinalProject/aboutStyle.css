@@ -84,6 +84,9 @@
     a:active{
       color: #FB6542
     }
+    #STD{
+      float: right;
+      width: 40%;
     }
     #h2{
       color: #AA4B41;
@@ -104,7 +107,6 @@
       float: left;
       width: 40%;
         display:block;
-        margin: 10px;
     }
     #column2{
         width: 30%;
@@ -122,25 +124,5 @@
     margin: 14px;
     margin-left: -650px;
     }
-    #p1{
-        margin: 10px;
-    }
-      #p2{
-       margin: 10px;
-    }
-      #p3{
-          margin: 10px; 
-    } 
-    #p4{
-        margin: 10px; 
-    }
-      #p5{
-         margin: 10px;  
-    }
-      #p6{
-         margin: 10px;  
-    }
+
 }
-
-
-  
