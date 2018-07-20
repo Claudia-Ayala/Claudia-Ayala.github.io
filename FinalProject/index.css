@@ -110,10 +110,10 @@ h3{
     color: #335252;
     padding: 14px 16px;
     text-decoration-line: underline;
-}
-
-    #google_translate_element{
+}#google_translate_element{
     margin: 14px;
-    margin-left: 25px;
+    margin-top: -10px;
+    text-align: left;
+    height: 7px;
     }
 }
