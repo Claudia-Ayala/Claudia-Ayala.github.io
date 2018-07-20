@@ -84,9 +84,6 @@
     a:active{
       color: #FB6542
     }
-    #STD{
-      float: right;
-      width: 40%;
     }
     #h2{
       color: #AA4B41;
@@ -107,6 +104,7 @@
       float: left;
       width: 40%;
         display:block;
+        margin: 10px;
     }
     #column2{
         width: 30%;
