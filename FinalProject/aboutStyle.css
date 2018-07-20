@@ -48,8 +48,11 @@
         width: 100%;
         height: 100%;
     }
-    h1{
-        color: #AA4B41;
+   h1{
+    margin: 20px;
+    color: #2D3033;
+    font-size: 30px;
+    text-align: center;
     }
     
     nav > .active{
@@ -87,10 +90,12 @@
     #STD{
       float: right;
       width: 40%;
+      color: #2D3033;
     }
     #h2{
       color: #AA4B41;
       font-size: 80;
+      color: #2D3033;
     }
     #h3{
       color: #AA4B41;
