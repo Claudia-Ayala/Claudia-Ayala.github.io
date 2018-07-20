@@ -86,7 +86,7 @@ nav > .active{
 }
 img{
    display: inline-block;
-   margin: 10px;
+   margin: 30px;
    width: 30%;  
    height:auto;
    border-radius: 50%;
@@ -115,6 +115,6 @@ h3{
     margin: 14px;
     margin-top: -10px;
     text-align: left;
-    height: 7px;
+    height: 5px;
     }
 }
