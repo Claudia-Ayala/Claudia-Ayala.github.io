@@ -111,9 +111,9 @@ h3{
     padding: 14px 16px;
     text-decoration-line: underline;
 }
-#google_translate_element{
+
+    #google_translate_element{
     margin: 14px;
-    margin-top: -10px;
-    text-align: left;
-    height: 7px;
+    margin-left: 25px;
     }
+}
