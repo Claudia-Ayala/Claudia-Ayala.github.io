@@ -100,9 +100,12 @@
       font-size: 80;
       margin: 10px;
     }
-    p{
+    p1{
+        color: #AA4B41;
         font-size: 25px;
         margin: 10px;
+        width: 70%;
+        
     }
     #column1{
         width: 30%;
